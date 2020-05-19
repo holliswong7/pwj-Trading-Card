@@ -1,3 +1,3 @@
-# pwj-Info-Card
+# pwj-Trading-Card
 
-An info-card project by using HTML and CSS
+An trading-card project by using HTML and CSS
